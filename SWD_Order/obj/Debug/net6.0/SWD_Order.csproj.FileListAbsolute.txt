@@ -1,0 +1,352 @@
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\appsettings.Development.json
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\appsettings.json
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\SWD_Order.exe
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\SWD_Order.deps.json
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\SWD_Order.runtimeconfig.json
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\SWD_Order.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\SWD_Order.pdb
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.AssemblyReference.cache
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\SWD_Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\SWD_Order.AssemblyInfoInputs.cache
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\SWD_Order.AssemblyInfo.cs
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.CoreCompileInputs.cache
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\SWD_Order.MvcApplicationPartsAssemblyInfo.cs
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\SWD_Order.MvcApplicationPartsAssemblyInfo.cache
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\staticwebassets.build.json
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\staticwebassets.development.json
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.SWD_Order.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.build.SWD_Order.props
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SWD_Order.props
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SWD_Order.props
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\scopedcss\bundle\SWD_Order.styles.css
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.CopyComplete
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\SWD_Order.dll
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\refint\SWD_Order.dll
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\SWD_Order.pdb
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\SWD_Order.genruntimeconfig.cache
+D:\PRN_PE\SWD_Order\SWD_Order\obj\Debug\net6.0\ref\SWD_Order.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\SWD_Order.Repo.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\SWD_Order.Repo.pdb
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\AutoMapper.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\SWD_Order.Service.dll
+D:\PRN_PE\SWD_Order\SWD_Order\bin\Debug\net6.0\SWD_Order.Service.pdb
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\appsettings.Development.json
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\appsettings.json
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.exe
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.deps.json
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.runtimeconfig.json
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.pdb
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\AutoMapper.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.Repo.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.Service.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.Repo.pdb
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.Service.pdb
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.AssemblyReference.cache
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.AssemblyInfoInputs.cache
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.AssemblyInfo.cs
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.CoreCompileInputs.cache
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.MvcApplicationPartsAssemblyInfo.cs
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.MvcApplicationPartsAssemblyInfo.cache
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.sourcelink.json
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets.build.json
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets.development.json
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.SWD_Order.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.build.SWD_Order.props
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SWD_Order.props
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SWD_Order.props
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\scopedcss\bundle\SWD_Order.styles.css
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.CopyComplete
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\refint\SWD_Order.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.pdb
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.genruntimeconfig.cache
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order\obj\Debug\net6.0\ref\SWD_Order.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.AssemblyReference.cache
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.AssemblyInfoInputs.cache
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.AssemblyInfo.cs
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.CoreCompileInputs.cache
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.MvcApplicationPartsAssemblyInfo.cs
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.MvcApplicationPartsAssemblyInfo.cache
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\refint\SWD_Order.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.pdb
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\appsettings.Development.json
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\appsettings.json
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.exe
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.deps.json
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.runtimeconfig.json
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.pdb
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\AutoMapper.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.Repo.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.Service.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.Repo.pdb
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\bin\Debug\net6.0\SWD_Order.Service.pdb
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.SWD_Order.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.build.SWD_Order.props
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SWD_Order.props
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SWD_Order.props
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets.build.json
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\staticwebassets.development.json
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\scopedcss\bundle\SWD_Order.styles.css
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.CopyComplete
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\SWD_Order.genruntimeconfig.cache
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order\obj\Debug\net6.0\ref\SWD_Order.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\appsettings.Development.json
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\appsettings.json
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\SWD_Order.exe
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\SWD_Order.deps.json
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\SWD_Order.runtimeconfig.json
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\SWD_Order.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\SWD_Order.pdb
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\AutoMapper.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\SWD_Order.Repo.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\SWD_Order.Service.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\SWD_Order.Repo.pdb
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\bin\Debug\net6.0\SWD_Order.Service.pdb
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.AssemblyReference.cache
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\SWD_Order.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\SWD_Order.AssemblyInfoInputs.cache
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\SWD_Order.AssemblyInfo.cs
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.CoreCompileInputs.cache
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\SWD_Order.MvcApplicationPartsAssemblyInfo.cs
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\SWD_Order.MvcApplicationPartsAssemblyInfo.cache
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.SWD_Order.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.build.SWD_Order.props
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SWD_Order.props
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SWD_Order.props
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\staticwebassets.build.json
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\staticwebassets.development.json
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\scopedcss\bundle\SWD_Order.styles.css
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.CopyComplete
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\SWD_Order.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\refint\SWD_Order.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\SWD_Order.pdb
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\SWD_Order.genruntimeconfig.cache
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order\obj\Debug\net6.0\ref\SWD_Order.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\appsettings.json
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\SWD_Order.exe
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\SWD_Order.deps.json
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\SWD_Order.runtimeconfig.json
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\SWD_Order.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\SWD_Order.pdb
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\SWD_Order.Repo.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\SWD_Order.Service.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\SWD_Order.Repo.pdb
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\bin\Debug\net6.0\SWD_Order.Service.pdb
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.AssemblyReference.cache
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\SWD_Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\SWD_Order.AssemblyInfoInputs.cache
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\SWD_Order.AssemblyInfo.cs
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.CoreCompileInputs.cache
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\SWD_Order.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\SWD_Order.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\SWD_Order.sourcelink.json
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.SWD_Order.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.build.SWD_Order.props
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SWD_Order.props
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SWD_Order.props
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\scopedcss\bundle\SWD_Order.styles.css
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\SWD_Order.csproj.Up2Date
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\SWD_Order.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\refint\SWD_Order.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\SWD_Order.pdb
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\SWD_Order.genruntimeconfig.cache
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order\obj\Debug\net6.0\ref\SWD_Order.dll

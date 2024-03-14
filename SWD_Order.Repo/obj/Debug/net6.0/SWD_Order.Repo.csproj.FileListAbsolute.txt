@@ -1,0 +1,72 @@
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.deps.json
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.runtimeconfig.json
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.dll
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.pdb
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.csproj.AssemblyReference.cache
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.AssemblyInfoInputs.cache
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.AssemblyInfo.cs
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.csproj.CoreCompileInputs.cache
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.dll
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\obj\Debug\net6.0\refint\SWD_Order.Repo.dll
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.pdb
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.genruntimeconfig.cache
+D:\PRN_PE\SWD_Order\SWD_Order.Repo\obj\Debug\net6.0\ref\SWD_Order.Repo.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.deps.json
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.runtimeconfig.json
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.pdb
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.csproj.AssemblyReference.cache
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.AssemblyInfoInputs.cache
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.AssemblyInfo.cs
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.csproj.CoreCompileInputs.cache
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.sourcelink.json
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\refint\SWD_Order.Repo.dll
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.pdb
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.genruntimeconfig.cache
+D:\SWD_SES7\SWD_API_Git\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\ref\SWD_Order.Repo.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.deps.json
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.runtimeconfig.json
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.pdb
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.csproj.AssemblyReference.cache
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.AssemblyInfoInputs.cache
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.AssemblyInfo.cs
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.csproj.CoreCompileInputs.cache
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\refint\SWD_Order.Repo.dll
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.pdb
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.genruntimeconfig.cache
+F:\Code\SWD-Web\SWD_API_POS\SWD_Order.Repo\obj\Debug\net6.0\ref\SWD_Order.Repo.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.deps.json
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.runtimeconfig.json
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.pdb
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.csproj.AssemblyReference.cache
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.AssemblyInfoInputs.cache
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.AssemblyInfo.cs
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.csproj.CoreCompileInputs.cache
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\obj\Debug\net6.0\refint\SWD_Order.Repo.dll
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.pdb
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.genruntimeconfig.cache
+F:\Code\SWD-Web\API-SWD-POS\SWD_API_WEB\SWD_Order.Repo\obj\Debug\net6.0\ref\SWD_Order.Repo.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.deps.json
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.runtimeconfig.json
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\bin\Debug\net6.0\SWD_Order.Repo.pdb
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.csproj.AssemblyReference.cache
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.AssemblyInfoInputs.cache
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.AssemblyInfo.cs
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.csproj.CoreCompileInputs.cache
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.sourcelink.json
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\obj\Debug\net6.0\refint\SWD_Order.Repo.dll
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.pdb
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\obj\Debug\net6.0\SWD_Order.Repo.genruntimeconfig.cache
+C:\Users\longn\OneDrive - Đại học FPT- FPT University\Desktop\POS\SWD_API_POSSystem\SWD_Order.Repo\obj\Debug\net6.0\ref\SWD_Order.Repo.dll
