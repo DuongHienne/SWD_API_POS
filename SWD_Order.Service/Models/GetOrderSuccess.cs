@@ -8,14 +8,11 @@ namespace SWD_Order.Service.Models
 {
     public class GetOrderSuccess
     {
-        public int Id { get; set; }
         public int? OrderId { get; set; }
         public double? TotalPrice { get; set; }
-        public string? Status { get; set; }
         public DateTime? CreationDate { get; set; }
         public int? TotalQuantity { get; set; }
-        public byte[] ImageData { get; set; }
-        public List<ProductDetail> orderDetail { get; set; }
+        public ProductDetail orderDetail { get; set; }
     }
     public class imageOrder
     {

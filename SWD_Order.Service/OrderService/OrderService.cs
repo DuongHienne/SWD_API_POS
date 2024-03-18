@@ -99,20 +99,24 @@ namespace SWD_Order.Service.OrderService
                 OrderId = x.o.OrderId,
                 TotalQuantity = x.o.Quantity,
                 TotalPrice = x.o.Total,
-                orderDetail = new List<ProductDetail>()
-                {
+                orderDetail = 
                     new ProductDetail()
                     {
-
+                    ProductId = x.p.ProductId,
                     Price = x.p.Price,
                     ProductName = x.p.ProductName,
                     Quantity = x.od.Quantity,
-                    }
-                },
-                ImageData = imageData
+                    Image = imageData
+                    
+                }
+              
             }).ToListAsync();
 
-            return result;
+            var order = result.GroupBy(x => x.OrderId)
+                           .Select(group => group.First())
+                           .ToList();
+
+            return order;
         }
 
         public async Task<GetOrderDetail> getOrderDetail(int orderId)

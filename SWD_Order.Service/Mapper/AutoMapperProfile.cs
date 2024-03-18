@@ -41,10 +41,7 @@ namespace SWD_Order.Service.Mapper
                 .ForMember(x => x.addImages, opt => opt.MapFrom(x => x.Images))
                 .ReverseMap();
             CreateMap<Image, AddImage>().ReverseMap();
-            CreateMap<OrderDetail, GetOrderSuccess>()
-                .ForMember(x=> x.productN , opt => opt.MapFrom(x=> x.Product))
-                .ForMember(x=> x.imageOrders, opt => opt.MapFrom(x => x.Product.Images))
-                .ReverseMap();
+            
             CreateMap<Image, imageOrder>().ReverseMap();
             CreateMap<Product, ProductN>().ReverseMap();
         }

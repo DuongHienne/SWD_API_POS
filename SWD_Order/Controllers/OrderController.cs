@@ -28,9 +28,9 @@ namespace SWD_Order.Controllers
         }
 
         [HttpGet("Order_Successfully")]
-        public async Task<IActionResult> OrderSuccess(string imageName)
+        public async Task<IActionResult> OrderSuccess()
         {
-            var user = await _orderService.getSuccessOrder(imageName);
+            var user = await _orderService.getSuccessOrder("IMG_20240227_083154.jpg");
             return Ok(user);
 
         }
