@@ -84,11 +84,15 @@ namespace SWD_Order.Service.OrderService
                         select new { od, p, o };
 
             // Tạo URL công khai của tệp từ Firebase Storage
-            string storageUrl = "https://console.firebase.google.com/u/1/project/posscan-55171/storage/posscan-55171.appspot.com/files/~2Fimgage" + imageName;
+
+
+            // Tạo URL trực tiếp đến tệp ảnh trên Firebase Storage
+            string storageUrl = "https://firebasestorage.googleapis.com/v0/b/posscan-55171.appspot.com/o/imgage%2FIMG_20240227_083154.jpg?alt=media&token=610906da-cc08-4db7-bdad-809ddb8ab0ba";
+
 
             // Tạo yêu cầu HTTP để tải xuống tệp
-            WebClient webClient = new WebClient();
-            byte[] imageData = webClient.DownloadData(storageUrl);
+            //WebClient webClient = new WebClient();
+            //byte[] imageData = webClient.DownloadData(storageUrl);
 
             // Trả về tệp dưới dạng phản hồi
 
@@ -106,9 +110,9 @@ namespace SWD_Order.Service.OrderService
                     Price = x.p.Price,
                     ProductName = x.p.ProductName,
                     Quantity = x.od.Quantity,
-                    Image = imageData
-                    
-                }
+                    Image = storageUrl
+
+                    }
               
             }).ToListAsync();
 
