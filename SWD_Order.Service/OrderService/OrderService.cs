@@ -7,6 +7,7 @@ using SWD_Order.Service.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Net.WebSockets;
 using System.Text;
 using System.Threading.Tasks;
@@ -73,14 +74,80 @@ namespace SWD_Order.Service.OrderService
 
         }
 
-        public async Task<List<GetOrderSuccess>> getSuccessOrder()
+        public async Task<List<GetOrderSuccess>> getSuccessOrder(string imageName)
         {
-            var order = await _context.OrderDetails.Include(x => x.Product)
-                  .ThenInclude(x => x.Images).Where(x => x.Code == "1" && x.ProductId == x.Product.ProductId).ToListAsync();
-            var mapper = _mapper.Map<List<GetOrderSuccess>>(order);
-            return mapper;
+
+            var query = from o in _context.Orders
+                        join od in _context.OrderDetails on o.OrderId equals od.OrderId
+                        join p in _context.Products on od.ProductId equals p.ProductId
+                        where od.Code == "1"
+                        select new { od, p, o };
+
+            // Tạo URL công khai của tệp từ Firebase Storage
+            string storageUrl = "https://console.firebase.google.com/u/1/project/posscan-55171/storage/posscan-55171.appspot.com/files/~2Fimgage" + imageName;
+
+            // Tạo yêu cầu HTTP để tải xuống tệp
+            WebClient webClient = new WebClient();
+            byte[] imageData = webClient.DownloadData(storageUrl);
+
+            // Trả về tệp dưới dạng phản hồi
+
+
+
+            var result = await query.Select(x => new GetOrderSuccess()
+            {
+                OrderId = x.o.OrderId,
+                TotalQuantity = x.o.Quantity,
+                TotalPrice = x.o.Total,
+                orderDetail = new List<ProductDetail>()
+                {
+                    new ProductDetail()
+                    {
+
+                    Price = x.p.Price,
+                    ProductName = x.p.ProductName,
+                    Quantity = x.od.Quantity,
+                    }
+                },
+                ImageData = imageData
+            }).ToListAsync();
+
+            return result;
         }
 
-       
+        public async Task<GetOrderDetail> getOrderDetail(int orderId)
+        {
+            var query = from od in _context.OrderDetails
+                        join p in _context.Products on od.ProductId equals p.ProductId
+                        join o in _context.Orders on od.OrderId equals o.OrderId
+                        join pay in _context.Payments on o.PaymentId equals pay.PaymentId
+                        where o.OrderId == orderId
+                        select new { od, p, o, pay };
+
+            var orderDetail = await query.Select(x => new GetOrderDetail()
+            {
+                OrderId = orderId,
+                TotalPrice = x.o.Total,
+                TotalQuantity = x.o.Quantity,
+                CreationDate = x.o.DateCreated,
+                Method = x.pay.Method,
+                Product = new List<ProductDetail>()
+                {
+                    new ProductDetail()
+                    {
+                        ProductId = x.p.ProductId,
+                        ProductName = x.p.ProductName,
+                        Price = x.p.Price,
+                        Quantity = x.od.Quantity
+                    }
+                }
+            }).FirstOrDefaultAsync();
+
+            return orderDetail;
+
+        }
+
+
+
     }
 }

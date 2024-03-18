@@ -10,6 +10,8 @@ namespace SWD_Order.Service.OrderService
     public interface IOrderService
     {
         public Task<OrderResponeModel> CreateOrder(OrderModel orderModel);
-        public Task<List<GetOrderSuccess>> getSuccessOrder();
+        public Task<List<GetOrderSuccess>> getSuccessOrder(string imageName);
+
+        public Task<GetOrderDetail> getOrderDetail(int id);
     }
 }

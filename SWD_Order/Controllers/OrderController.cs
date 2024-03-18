@@ -28,9 +28,17 @@ namespace SWD_Order.Controllers
         }
 
         [HttpGet("Order_Successfully")]
-        public async Task<IActionResult> OrderSuccess()
+        public async Task<IActionResult> OrderSuccess(string imageName)
         {
-            var user = await _orderService.getSuccessOrder();
+            var user = await _orderService.getSuccessOrder(imageName);
+            return Ok(user);
+
+        }
+
+        [HttpGet("Order_Detail")]
+        public async Task<IActionResult> OrderDetail(int orderId)
+        {
+            var user = await _orderService.getOrderDetail(orderId);
             return Ok(user);
 
         }
