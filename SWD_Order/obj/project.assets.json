@@ -2408,24 +2408,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\longn\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\PC-CAOKIENQUOC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\longn\\OneDrive - Đại học FPT- FPT University\\Desktop\\POS\\SWD_API_POSSystem\\SWD_Order\\SWD_Order.csproj",
+      "projectUniqueName": "D:\\FPT-Learn\\HK6\\SWD391\\SWD_API_POS\\SWD_Order\\SWD_Order.csproj",
       "projectName": "SWD_Order",
-      "projectPath": "C:\\Users\\longn\\OneDrive - Đại học FPT- FPT University\\Desktop\\POS\\SWD_API_POSSystem\\SWD_Order\\SWD_Order.csproj",
-      "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\longn\\OneDrive - Đại học FPT- FPT University\\Desktop\\POS\\SWD_API_POSSystem\\SWD_Order\\obj\\",
+      "projectPath": "D:\\FPT-Learn\\HK6\\SWD391\\SWD_API_POS\\SWD_Order\\SWD_Order.csproj",
+      "packagesPath": "C:\\Users\\PC-CAOKIENQUOC\\.nuget\\packages\\",
+      "outputPath": "D:\\FPT-Learn\\HK6\\SWD391\\SWD_API_POS\\SWD_Order\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\longn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\PC-CAOKIENQUOC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2439,11 +2434,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\longn\\OneDrive - Đại học FPT- FPT University\\Desktop\\POS\\SWD_API_POSSystem\\SWD_Order.Repo\\SWD_Order.Repo.csproj": {
-              "projectPath": "C:\\Users\\longn\\OneDrive - Đại học FPT- FPT University\\Desktop\\POS\\SWD_API_POSSystem\\SWD_Order.Repo\\SWD_Order.Repo.csproj"
+            "D:\\FPT-Learn\\HK6\\SWD391\\SWD_API_POS\\SWD_Order.Repo\\SWD_Order.Repo.csproj": {
+              "projectPath": "D:\\FPT-Learn\\HK6\\SWD391\\SWD_API_POS\\SWD_Order.Repo\\SWD_Order.Repo.csproj"
             },
-            "C:\\Users\\longn\\OneDrive - Đại học FPT- FPT University\\Desktop\\POS\\SWD_API_POSSystem\\SWD_Order.Service\\SWD_Order.Service.csproj": {
-              "projectPath": "C:\\Users\\longn\\OneDrive - Đại học FPT- FPT University\\Desktop\\POS\\SWD_API_POSSystem\\SWD_Order.Service\\SWD_Order.Service.csproj"
+            "D:\\FPT-Learn\\HK6\\SWD391\\SWD_API_POS\\SWD_Order.Service\\SWD_Order.Service.csproj": {
+              "projectPath": "D:\\FPT-Learn\\HK6\\SWD391\\SWD_API_POS\\SWD_Order.Service\\SWD_Order.Service.csproj"
             }
           }
         }
@@ -2452,11 +2447,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2483,6 +2473,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -2491,7 +2499,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
