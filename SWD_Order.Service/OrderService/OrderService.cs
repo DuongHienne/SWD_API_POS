@@ -20,7 +20,7 @@ namespace SWD_Order.Service.OrderService
         private readonly IMapper _mapper;
         private readonly WPF_MachineContext _context;
 
-        public OrderService(IUnitOfWork unitOfWork, IMapper mapper,WPF_MachineContext context)
+        public OrderService(IUnitOfWork unitOfWork, IMapper mapper, WPF_MachineContext context)
         {
             _unitOfWork = unitOfWork;
             _mapper = mapper;
@@ -35,7 +35,7 @@ namespace SWD_Order.Service.OrderService
             foreach (var option in orderModel.items)
             {
                 int productId = option.ProductId;
-                
+
                 var Quantity = option.Quantity;
                 var product = _unitOfWork.ProductRepository.GetByID(productId);
                 if (product == null)
@@ -46,7 +46,7 @@ namespace SWD_Order.Service.OrderService
                 {
 
                     ProductId = productId,
-                 //   Price = Quantity *product.,
+                    //   Price = Quantity *product.,
                     CreationDate = DateTime.UtcNow,
                     Quantity = Quantity
                 };
@@ -67,12 +67,13 @@ namespace SWD_Order.Service.OrderService
             await _unitOfWork.Completed();
 
             var mapper = _mapper.Map<OrderResponeModel>(oderModel);
-            return mapper; 
+            return mapper;
 
 
 
 
         }
+
 
         public async Task<List<GetOrderSuccess>> getSuccessOrder(string imageName)
         {
@@ -103,17 +104,17 @@ namespace SWD_Order.Service.OrderService
                 OrderId = x.o.OrderId,
                 TotalQuantity = x.o.Quantity,
                 TotalPrice = x.o.Total,
-                orderDetail = 
+                orderDetail =
                     new ProductDetail()
                     {
-                    ProductId = x.p.ProductId,
-                    Price = x.p.Price,
-                    ProductName = x.p.ProductName,
-                    Quantity = x.od.Quantity,
-                    Image = storageUrl
+                        ProductId = x.p.ProductId,
+                        Price = x.p.Price,
+                        ProductName = x.p.ProductName,
+                        Quantity = x.od.Quantity,
+                        Image = storageUrl
 
                     }
-              
+
             }).ToListAsync();
 
             var order = result.GroupBy(x => x.OrderId)
@@ -155,7 +156,40 @@ namespace SWD_Order.Service.OrderService
 
         }
 
+        public async Task<List<Order>> getAllOrder()
+        {
+            var allOrders = await _context.Orders.ToListAsync();
+            return allOrders;
+        }
+
+        public async Task<double> getTotalRevenue()
+        {
+            var orders = await _context.Orders.ToListAsync();
+            double totalRevenue = 0.0;
+
+            foreach (var order in orders)
+            {
+                totalRevenue += order.Total ?? 0.0;
+            }
+
+            return totalRevenue;
+        }
+
+        public async Task<double> getTotalMonthRevenue(DateTime startDate, DateTime endDate)
+        {
+            var orders = await _context.Orders
+         .Where(o => o.DateCreated >= startDate && o.DateCreated <= endDate)
+         .ToListAsync();
+
+            double totalRevenue = 0.0;
 
 
+            foreach (var order in orders)
+            {
+                totalRevenue += order.Total ?? 0.0;
+            }
+
+            return totalRevenue;
+        }
     }
 }

@@ -18,7 +18,7 @@ namespace SWD_Order.Controllers
         private readonly WPF_MachineContext _DataContext;
         private readonly IOrderService _orderService;
         private readonly IProductService _productService;
-        public OrderController(IUnitOfWork unitOfWork, WPF_MachineContext context, 
+        public OrderController(IUnitOfWork unitOfWork, WPF_MachineContext context,
             IOrderService orderService, IProductService productService)
         {
             _unitOfWork = unitOfWork;
@@ -49,5 +49,66 @@ namespace SWD_Order.Controllers
             var order = await _orderService.CreateOrder(model);
             return Ok(order);
         }
+
+        [HttpGet("Total_Order")]
+        public async Task<IActionResult> GetTotalOrder()
+        {
+
+            var result = await _orderService.getAllOrder();
+            var count = result.Count; // Đếm số lượng phần tử trong danh sách
+            return Ok(count);
+        }
+        [HttpGet("Total_Revenue")]
+        public async Task<IActionResult> GetTotalRevenue()
+        {
+
+            var totalRevenue = await _orderService.getTotalRevenue();
+
+            string result = totalRevenue.ToString(); // Chuyển đổi tổng doanh thu từ double sang chuỗi
+
+            return Ok(result);
+        }
+
+        [HttpGet("Total_MonthRevenue")]
+        public async Task<IActionResult> GetTotalMonthRevenue([FromQuery] int month)
+        {
+            if (month < 1 || month > 12)
+            {
+                return BadRequest("Invalid month. Month should be between 1 and 12.");
+            }
+
+
+            DateTime startDate = new DateTime(DateTime.Now.Year, month, 1);
+            DateTime endDate = startDate.AddMonths(1).AddDays(-1);
+
+
+            var totalRevenue = await _orderService.getTotalMonthRevenue(startDate, endDate);
+
+
+            string result = totalRevenue.ToString();
+
+            return Ok(result);
+        }
+
+        //[HttpGet("Total_MonthRevenue")]
+        //public async Task<IActionResult> GetTotalMonthRevenue([FromQuery] int month)
+        //{
+        //    if (month < 1 || month > 12)
+        //    {
+        //        return BadRequest("Invalid month. Month should be between 1 and 12.");
+        //    }
+
+
+        //    DateTime startDate = new DateTime(DateTime.Now.Year, month, 1);
+        //    DateTime endDate = startDate.AddMonths(1).AddDays(-1);
+
+
+        //    var totalRevenue = await _orderService.getTotalMonthRevenue(startDate, endDate);
+
+
+        //    string result = totalRevenue.ToString();
+
+        //    return Ok(result);
+        //}
     }
 }

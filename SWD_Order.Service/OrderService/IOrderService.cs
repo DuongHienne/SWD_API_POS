@@ -1,4 +1,5 @@
-﻿using SWD_Order.Service.Models;
+﻿using SWD_Order.Repo.Entity;
+using SWD_Order.Service.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,5 +14,13 @@ namespace SWD_Order.Service.OrderService
         public Task<List<GetOrderSuccess>> getSuccessOrder(string imageName);
 
         public Task<GetOrderDetail> getOrderDetail(int id);
+
+        public Task<List<Order>> getAllOrder();
+
+        public Task<double> getTotalRevenue();
+
+        public Task<double> getTotalMonthRevenue(DateTime startDate, DateTime endDate);
+
+        //public Task<GetOrderSuccess> getRevenueWeek();
     }
 }
