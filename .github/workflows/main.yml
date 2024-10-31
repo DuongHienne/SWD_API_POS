@@ -1,15 +1,16 @@
-name: Publish 
+name: Publish
 
 on: 
   workflow_dispatch:
   push:
     branches:
-     -main
-    jobs:
-     publish:
-      runs-on: window-lastest
+      - main
 
-     steps:
+jobs:
+  publish:
+    runs-on: windows-latest
+
+    steps:
       - uses: actions/checkout@v3
       
       - name: Setup .NET
@@ -25,4 +26,3 @@ on:
 
       - name: Publish
         run: dotnet publish ./SWD_Order.sln --configuration Release --no-build
-      
