@@ -10,19 +10,19 @@ on:
       runs-on: window-lastest
 
      steps:
-      -uses: actions/checkout@v3
+      - uses: actions/checkout@v3
       
-      -name: Setup .NET
-       uses: actions/setup-dotnet@v3
-       with:
-        dotnet-version: '6.0.x'
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '6.0.x'
 
-        -name: Restore
-         run: dotnet restore ./SWD_Order.sln
+      - name: Restore
+        run: dotnet restore ./SWD_Order.sln
 
-         -name: Build
-         run dotner build ./SWD_Order.sln --configuration Release --no-restore
+      - name: Build
+        run: dotnet build ./SWD_Order.sln --configuration Release --no-restore
 
-         -name: Publish
-          run: dotnet publish ./SWD_Order.sln --configuration Release --no-build
+      - name: Publish
+        run: dotnet publish ./SWD_Order.sln --configuration Release --no-build
       
